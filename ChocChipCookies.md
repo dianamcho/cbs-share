@@ -7,7 +7,7 @@ RECIPE
 +*1 tsp baking soda
 +*1 tsp salt
 +*Two sticks of butter
-+*2 large eggs
++*2 large chickens
 +*1 tsp vanilla
 +*12 oz chocolate chips
 
